@@ -1,6 +1,0 @@
-I'm Luca, a 17-year-old from Germany, passionate about programming. 
-I've been coding for three years and have a deep love for backend development. 
-In 2023, I completed my Abitur, and now I'm pursuing an apprenticeship as an Software Developer. 
-I thrive on creating solutions that make a difference. 
-Join me on my journey as I explore the world of programming, share insights, and showcase my projects. 
-Let's connect and code together!

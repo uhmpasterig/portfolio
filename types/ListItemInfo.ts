@@ -4,5 +4,5 @@ export type ListItemInfo = {
   tags: string[];
   image: string;
   url: string;
-  className: string;
+  color: string;
 }

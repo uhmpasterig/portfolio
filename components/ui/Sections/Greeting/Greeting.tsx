@@ -10,7 +10,7 @@ export default function Greeting() {
       transition={{ duration: 0.5 }}
       className="text-center text-4xl font-bold leading-relaxed sm:text-4xl md:text-3xl md:leading-snug xl:text-4xl xl:leading-relaxed w-full whitespace-normal break-words"
     >
-      Hey, I'm Luca
+      Hey, I&apos;m Luca
       <span className='xl:inline md:inline hidden'>
         - A&nbsp;
         <HighlightedText color="blue" delay={0.55} duration={0.6}>

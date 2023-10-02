@@ -15,25 +15,13 @@ export default function AboutMe() {
       ></motion.img>
 
       <TextParagraph title="About Me:" animationDirection="right">
-        <p>Hi, I'm Luca, a 17-year-old from Germany, passionate about programming.</p>
-        <p>I've been coding for three years and have a deep love for backend development.</p>
-        <p>In 2023, I completed my Abitur, and now I'm pursuing an apprenticeship as a Software Developer.</p>
+        <p>Hi, I&apos;m Luca, a 17-year-old from Germany, passionate about programming.</p>
+        <p>I&apos;ve been coding for three years and have a deep love for backend development.</p>
+        <p>In 2023, I completed my Abitur, and now I&apos;m pursuing an apprenticeship as a Software Developer.</p>
         <p>I thrive on creating solutions that make a difference.</p>
         <p>Join me on my journey as I explore the world of programming, share insights, and showcase my projects.</p>
-        <p>Let's connect and code together!</p>
+        <p>Let&apos;s connect and code together!</p>
       </TextParagraph>
     </div>
   );
-}
-
-{
-  /* <TextParagraph title="Soft Skills:" animationDirection="right">
-        <p>I possess strong soft skills such as excellent communication, quick learning, and a passion for continuous growth.</p>
-        <p>I'm known for pushing my limits, which fuels my determination and adaptability in all aspects of life.</p>
-        <p>
-          Outside of work, I enjoy outdoor activities, reflecting my adventurous spirit and love for nature. This connection to the natural world
-          instills in me a deep sense of environmental responsibility, driving my commitment to sustainable living and conservation efforts.
-        </p>
-        <p>My diverse set of skills and interests shape me into a well-rounded and adaptable individual, ready to face any challenge head-on.</p>
-      </TextParagraph> */
 }

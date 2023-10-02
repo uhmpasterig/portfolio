@@ -7,7 +7,7 @@ export default function SoftSkills() {
     <div className="flex justify-evenly items-center lg:flex-row lg:gap-96 md:flex-row md:gap-10 sm:flex-col gap-10 flex-col">
       <TextParagraph title="Soft Skills:" animationDirection="right">
         <p>I possess strong soft skills such as excellent communication, quick learning, and a passion for continuous growth.</p>
-        <p>I'm known for pushing my limits, which fuels my determination and adaptability in all aspects of life.</p>
+        <p>I&apos;m known for pushing my limits, which fuels my determination and adaptability in all aspects of life.</p>
         <p>
           Outside of work, I enjoy outdoor activities, reflecting my adventurous spirit and love for nature. This connection to the natural world
           instills in me a deep sense of environmental responsibility, driving my commitment to sustainable living and conservation efforts.

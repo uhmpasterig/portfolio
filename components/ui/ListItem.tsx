@@ -30,7 +30,7 @@ export default function ListItem({ listItem, key }: { listItem: ListItemInfo; ke
         whileInView={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.2 }}
         viewport={{ once: true }}
-        className="flex flex-row gap-3 items-center"
+        className="flex flex-row gap-3 items-center text-white"
       >
         <img src={listItem.image} loading="lazy" alt="TypeScript" className="w-auto h-5 rounded-sm" />
         <h1 className="font-bold hover:underline">{listItem.name}</h1>

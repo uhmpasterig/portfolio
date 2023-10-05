@@ -16,7 +16,7 @@ export default function SeperatorInfo({ number, title }: { number: number; title
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.2 }}
         viewport={{ once: true }}
-        className="h-10 w-10 bg-white/5 border border-white/20 rounded-full flex justify-center items-center"
+        className="h-10 w-10 bg-white/5 border border-white/20 rounded-full flex justify-center items-center text-gray-400" 
       >
         {number}
       </motion.div>

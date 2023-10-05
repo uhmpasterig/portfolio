@@ -8,7 +8,7 @@ export default function Greeting() {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.5 }}
-      className="text-center text-4xl font-bold leading-relaxed sm:text-4xl md:text-3xl md:leading-snug xl:text-4xl xl:leading-relaxed w-full whitespace-normal break-words"
+      className="text-center text-4xl font-bold leading-relaxed sm:text-4xl md:text-3xl md:leading-snug xl:text-4xl xl:leading-relaxed w-full whitespace-normal break-words text-white"
     >
       Hey, I&apos;m Luca
       <span className='xl:inline md:inline hidden'>
